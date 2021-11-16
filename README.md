@@ -17,9 +17,9 @@ shootgame.pyとauto*.pyは、ぼくちん（https://twitter.com/boku_chinn） �
 
 使い方（Windows）：
 1. Python3をインストールする
-2. shootgame.pyとauto*.pyを自分のパソコンに保存する。
+2. shootgame.pyとauto*.pyとimagesフォルダ、soundsフォルダを自分のパソコンに保存する。
 3. コマンドプロンプトを起動する。以下コマンドプロンプト内での操作。
-4. cd [2.でプログラムを保存したフォルダ]　を実行して2.のファイルがあるフォルダへ移動
+4. cd [2.でプログラムを保存したフォルダ]　を実行して2.のファイル・フォルダがあるフォルダへ移動
 5. python shootgame.py を実行。ゲームができる。ゲームを終了させる。
 6. python auto1.py を実行。shootgame.pyが自動操作される。auto2.py、auto3.pyも試してみてね。
 7. プログラミング教育者の方はauto*.pyを参考に、shootgame.pyを自動操作する方法を生徒さんに教えてあげてください。色んなauto*.pyを作ってみてください。

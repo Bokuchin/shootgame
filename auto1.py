@@ -1,4 +1,4 @@
-#shoot9.pyの敵出現位置を固定した場合の操作自動化のデモプログラム。自機の動きは決定的。
+#shootgame.pyの敵出現位置を固定した場合の操作自動化のデモプログラム。自機の動きは決定的。
 import time, sys
 import shootgame as sh
 flg = 0

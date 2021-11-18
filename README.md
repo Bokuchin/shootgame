@@ -24,3 +24,6 @@ shootgame.pyとauto*.pyは、ぼくちん（https://twitter.com/boku_chinn） �
 7. python shootgame.pyを実行。ゲームができる。ゲームを終了させる。
 8. python auto1.pyを実行。shootgame.pyが自動操作される。auto2.py、auto3.pyも試してみてね。
 9. プログラミング教育者の方はauto*.pyを参考に、shootgame.pyを自動操作する方法を生徒さんに教えてあげてください。色んなauto*.pyを作ってみてください。
+
+解説動画もあります。
+https://www.youtube.com/watch?v=CXwW231QTwY
